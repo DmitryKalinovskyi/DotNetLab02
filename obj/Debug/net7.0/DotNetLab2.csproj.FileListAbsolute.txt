@@ -1,0 +1,15 @@
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.csproj.AssemblyReference.cache
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.AssemblyInfoInputs.cache
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.AssemblyInfo.cs
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.csproj.CoreCompileInputs.cache
+C:\Users\Свєта\source\repos\DotNetLab2\bin\Debug\net7.0\DotNetLab2.exe
+C:\Users\Свєта\source\repos\DotNetLab2\bin\Debug\net7.0\DotNetLab2.deps.json
+C:\Users\Свєта\source\repos\DotNetLab2\bin\Debug\net7.0\DotNetLab2.runtimeconfig.json
+C:\Users\Свєта\source\repos\DotNetLab2\bin\Debug\net7.0\DotNetLab2.dll
+C:\Users\Свєта\source\repos\DotNetLab2\bin\Debug\net7.0\DotNetLab2.pdb
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.dll
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\refint\DotNetLab2.dll
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.pdb
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\DotNetLab2.genruntimeconfig.cache
+C:\Users\Свєта\source\repos\DotNetLab2\obj\Debug\net7.0\ref\DotNetLab2.dll
